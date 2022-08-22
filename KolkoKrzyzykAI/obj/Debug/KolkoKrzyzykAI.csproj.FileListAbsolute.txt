@@ -1,0 +1,12 @@
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\bin\Debug\KolkoKrzyzykAI.exe.config
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\bin\Debug\KolkoKrzyzykAI.exe
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\bin\Debug\KolkoKrzyzykAI.pdb
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.csproj.AssemblyReference.cache
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.Properties.Resources.resources
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.csproj.GenerateResource.cache
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.csproj.CoreCompileInputs.cache
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.exe
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.pdb
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.FormStart.resources
+C:\Users\Szurek\source\repos\KolkoKrzyzykAI\KolkoKrzyzykAI\obj\Debug\KolkoKrzyzykAI.Form2.resources
